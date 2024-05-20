@@ -115,3 +115,5 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 For any inquiries or support, feel free to contact:
 
 [Adibakshi28 - GitHub Profile](https://github.com/adibakshi28)
+
+Happy Decentralizing!
