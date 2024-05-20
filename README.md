@@ -106,3 +106,12 @@ The DAO contracts were deployed and tested on the Sepolia Test Network. The test
         Use MetaMask to connect to the Sepolia Test Network.
         Interact with the deployed contracts through Remix IDE or a front-end application.
 
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more information.
+
+## Contact
+
+For any inquiries or support, feel free to contact:
+
+[Adibakshi28 - GitHub Profile](https://github.com/adibakshi28)
